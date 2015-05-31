@@ -1,0 +1,13 @@
+{
+    "name": "gazsp/tinker",
+    "description": "Access Statamic from the command line",
+    "require": {
+        "d11wtq/boris": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Gary Pearman",
+            "email": "gpearman@gmail.com"
+        }
+    ]
+}
