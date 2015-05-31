@@ -1,5 +1,4 @@
 #! /usr/bin/env php
-
 <?php
 
 $_SERVER['SERVER_NAME'] = 'cli';
