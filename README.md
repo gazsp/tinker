@@ -1,6 +1,6 @@
 # tinker
 
-<a href="https://flattr.com/submit/auto?user_id=gazsp&url=https%3A%2F%2Fgithub.com%2Fgazsp%2Ftinker" target="_blank"><img src="//button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
+<a href="https://flattr.com/submit/auto?user_id=gazsp&url=https%3A%2F%2Fgithub.com%2Fgazsp%2Ftinker" target="_blank"><img src="https://button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
 
 Access Statamic from the CLI
 
